@@ -1,6 +1,6 @@
-name = input("이름을 입력하세요: ")
-student_id = input("학번을 입력하세요: ")
-subject=input("학과를 입력하세요:")
+name = input("이름: ")
+student_id = input("학번: ")
+subject=input("학과:")
 # 결과 출력
 print()
 print("<출력>")
